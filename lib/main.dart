@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
           surface: Colors.white,
           onSurface: Colors.black, // Text color on surfaces
         ),
-        cardTheme: CardTheme(
+        cardTheme: CardThemeData(
           color: Colors.white,
           surfaceTintColor: Colors.white,
         ),
